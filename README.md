@@ -1,1 +1,1 @@
-# kvasir_gi_images_classification
+# GI Tract Medical Images Classification
