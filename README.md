@@ -1,4 +1,4 @@
-# GI Tract Medical Images Classification with Deep Learning
+# Gastrointestinal Tract Medical Images Classification with Deep Learning
 
 Dataset:<br />
 https://datasets.simula.no/kvasir/ <br />
